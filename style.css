@@ -1,0 +1,45 @@
+.body{
+    background-color: #11a4a4;
+}
+.card-leao{
+    padding: 1rem;
+    margin: 2rem;
+    color: #a41111;
+    box-shadow: 0 0 20px rgba(93, 93, 93, 0.2);
+    text-align: center;
+    display: flexbox;
+}
+.card-leao img{
+    border-radius: 1rem;
+}
+
+.card-leao h2{
+    padding: 0.5rem;
+    font-size: 1.5rem;
+}
+.card-leao p{
+    width: 20rem;
+    text-align: left;
+    padding: 0.5rem;
+}
+.card-lhama{
+    padding: 1rem;
+    margin: 2rem;
+    color: #4b38db;
+    box-shadow: 0 0 20px rgba(93, 93, 93, 0.2);
+    text-align: center;
+    display: flexbox;
+}
+.card-lhama img{
+    border-radius: 1rem;
+}
+
+.card-lhama h2{
+    padding: 0.5rem;
+    font-size: 1.5rem;
+}
+.card-lhama p{
+    width: 20rem;
+    text-align: left;
+    padding: 0.5rem;
+}
